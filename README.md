@@ -1,2 +1,2 @@
 # penguinIntegrate
-Use as pleased
+Use, arrrange and complete tests as pleased
